@@ -39,10 +39,27 @@ Advantages of Agile methodology:
 - Testing occurs late in the process.
   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is more beneficial in:
+Dynamic, evolving projects where requirements may change frequently, and iterative progress is key to success. Agile thrives in environments requiring adaptability, constant feedback, and collaboration between developers. For example , when developing a amobile app where user feedback shapes future updates and features. Waterfall is more beneficial in a structured, well-defined projects where the scope, requirements, and end goals are clear from the start. Waterfall follows a sequential, linear approach, which works well for projects with minimal expected changes. A good example of when Waterfall methodology can be used is when creating a government compliance-based system like a tax collection tool with fixed regulations.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Ensuring quality assurance throughout a software project is crucial for delivering a reliable, functional product that meets user expectations and business objectives. High standards prevent costly errors, enhance user satisfaction, and protect the company's reputation. High-quality software enhances the organization's reputation and fosters trust with clients. There are several methods used to ensure quality assuarance of a software project which include:
+1. Defining quality standards early
+2. Adopting testing strategies
+3. Employing automated testing
+4. Having code reviews and peer inspections
+5. Agile Q&A practices
+6. Having continous intergration and deployment 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is fundamental to successful project planning because it establishes clear boundaries and objectives for the project. It ensures that all stakeholders and developers have a shared understanding of what the project will deliver, helping to avoid misunderstandings, scope creep (uncontrolled changes or growth in project scope), and wasted resources. A well-defined scope also helps in setting realistic timelines, budgets, and resource requirements, forming the foundation for an effective project plan.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Developing a detailed project schedule is a the backbone of successful project management, as it provides a clear roadmap for the team to follow, allocates time effectively, and ensures alignment with project goal. It is beneficial because:
+1. It enhances organization and planning of the work into small manageable tasks
+2. It helps set realistic deadlines for tasks and aligning team efforts with the objectives
+3. Act as areference point for stakeholders and developers which keeps evryone on the same page.
+4. Provide transparency to stakeholders to work progress and potential risks
+5. Supports adjustments to timelines if necessary
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
